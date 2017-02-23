@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "commander": "^2.9.0",
+    "github": "^9.0.0"
+  }
+}
